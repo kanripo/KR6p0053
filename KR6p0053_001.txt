@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:30.312637
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:54
 #+TITLE: 淨土或問
 #+PROPERTY: CBETA_ID T47n1972
 #+PROPERTY: ID KR6p0053
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 No.1972¶
 
-淨土或問序
+* 淨土或問序
 :PROPERTIES:
 :head: 淨土或問序
 :END:
